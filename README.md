@@ -1,2 +1,7 @@
-# build-szn-frontend-design-documentation
-Build SZN Frontend design documentation for group 3
+### LIST OF COMPONENTS
+
+dashboard.js
+search.js
+signin.js
+signup.js
+
