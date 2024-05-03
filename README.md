@@ -5,11 +5,20 @@
 ## Dashboard Design 
 
 ## Profile pages 
+- profile page for parents containing name, contact info, email, payment details and account setting for accessing and changing password and email, feedbacks and privacy policy by CRUD operations enabled by react component with backend API integration for real time data update.
+- dashboard for performance metric  tracked by parents  to monitor child progress's, assignment quizzes with data visualization library.
+- dashboard for kids to access their assignment, quizzes games, tasks done with statemanagemet tools.
 
 ## Component tree diagram of the feature
 
 ## Alternative design considerations
-
+- animated storyboard used to tell stories while enabling learning
+- voice activated navigations
+- integrate Q&A widget or chatbots
+- avater based learning adventure
+- features for parents  to engage in fun activities with kids to enable learning.
+- [more alternative design  decision will be influenced by user feedback]
+  
 ## Technologies and tools used 
 
 ## Test scenarios 
