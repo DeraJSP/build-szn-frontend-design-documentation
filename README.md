@@ -76,8 +76,8 @@ The frontend will be built as a single-page application (SPA) using React, with 
   - Jest and React Testing Library for automation.
     
   ### Integration Testing:
-  
-    -To ensure smooth interaction between frontend components and also various scenarios covering user interactions.
+
+  - To ensure smooth interaction between frontend components and also various scenarios covering user interactions.
   
   ### End-to-End Testing:
   
