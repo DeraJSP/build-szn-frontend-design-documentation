@@ -14,6 +14,7 @@
 
 - Visual Studio Code, Git, and npm will be used for development and version control.
 - Reactjs will be used as the frontend framework for building reusable UI components
+- React router wil be used to move and navigate around pages
 - Use State for some local state management and use reducer for global state management
 - Use Context API for sharing state between components.
 - Tailwind will be used for responsive design across all screens and UI components styling
