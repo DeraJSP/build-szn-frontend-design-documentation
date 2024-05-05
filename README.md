@@ -82,10 +82,13 @@ The frontend will be built as a single-page application (SPA) using React, with 
   
  ### End-to-End Testing:
  This tests will simulate real user interactions with the platform, including navigation, form submissions, and data validation.
-  
+ 
  ### Cross-Browser Testing:
   
   - To verify platform functionality across browsers.
   - Testing on Chrome, Firefox, Safari, and Edge.
     Regression Testing:
   - Ensures new updates don’t introduce issues.
+
+## Click Interaction Structure
+![model](https://raw.githubusercontent.com/DeraJSP/build-szn-frontend-design-documentation/main/click-interaction-user-flow.png)
