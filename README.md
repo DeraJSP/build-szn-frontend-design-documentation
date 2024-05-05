@@ -1,11 +1,9 @@
 # Frontend Design Documentation for Learnable Kids, a learning management system.
 
-## Abstract
-
-## Dashboard Design
+## Introduction
+Learnable Kids is a learning management system (LMS) tailored specifically for children aged 5 to 12. Traditional learning materials often fail to captivate young minds, leading to disengagement and lack of motivation. Learnable kids will unleash your child's curiosity with a world of games, quizes, and challenges that make learning exciting fostering a love for learning among children while providing progress tracking tools to parents you stay involved.
 
 ## Profile pages
-
 - profile page for parents containing name, contact info, email, payment details and account setting for accessing and changing password and email, feedbacks and privacy policy by CRUD operations enabled by react component with backend API integration for real time data update.
 - dashboard for performance metric tracked by parents to monitor child progress's, assignment quizzes with data visualization library.
 - dashboard for kids to access their assignment, quizzes games, tasks done with statemanagemet tools.
