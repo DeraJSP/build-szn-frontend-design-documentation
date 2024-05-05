@@ -90,5 +90,5 @@ The frontend will be built as a single-page application (SPA) using React, with 
     Regression Testing:
   - Ensures new updates don’t introduce issues.
 
-## Click Interaction Structure
+## Click Interaction Structure/User flow
 ![model](https://raw.githubusercontent.com/DeraJSP/build-szn-frontend-design-documentation/main/click-interaction-user-flow.png)
