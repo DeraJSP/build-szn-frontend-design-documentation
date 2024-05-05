@@ -10,7 +10,8 @@ Learnable Kids is a learning management system (LMS) tailored specifically for c
 - dashboard for performance metric tracked by parents to monitor child progress's, assignment quizzes with data visualization library.
 - dashboard for kids to access their assignment, quizzes games, tasks done with statemanagemet tools.
 
-## Component tree diagram of the feature
+## Component tree diagram
+![model](https://raw.githubusercontent.com/DeraJSP/build-szn-frontend-design-documentation/main/component-tree.png)
 
 ## Alternative design considerations
 
