@@ -19,7 +19,17 @@
 - features for parents  to engage in fun activities with kids to enable learning.
 - [more alternative design  decision will be influenced by user feedback]
   
-## Technologies and tools used 
+## Technologies and Tools
+
+- Visual Studio Code, Git, and npm will be used for development and version control.
+- Reactjs will be used as the frontend framework for building reusable UI components
+- Use State for some local state management and use reducer for global state management
+- Use Context API for sharing state between components.
+- Tailwind will be used for responsive design across all screens and UI components styling
+
+### Frontend Architecture
+
+The frontend will be built as a single-page application (SPA) using React, with a modular architecture to facilitate easy maintenance and updates. The application will be divided into features, each with its own set of components, containers, and APIs.
 
 ## Test scenarios 
 - Testing the user interface across different browsers (Chrome, Firefox, Safari, etc.)
