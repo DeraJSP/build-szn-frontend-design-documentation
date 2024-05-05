@@ -67,13 +67,20 @@ The frontend will be built as a single-page application (SPA) using React, with 
 - Ensuring scalability for handling a high volume of concurrent users and optimizing frontend code for quick loading and seamless user experience.
 - Incorporating essential APIs and server logic into React components for managing user authentication, course enrollment, and progress tracking.
 - Using Git for version control and management tools to perform maintenance, regular updates, and bug fixes.
+  
   ## Testing
-  Unit Testing:
+  
+  ### Unit Testing:
+  
   - Using React components to ensure individual functionalities work.
   - Jest and React Testing Library for automation.
-    Integration Testing:
+    
+  ### Integration Testing:
+  
     -To ensure smooth interaction between frontend components and also various scenarios covering user interactions.
-    End-to-End Testing:
+  
+  ### End-to-End Testing:
+  
   - This tests simulate real user interactions with the platform, including navigation, form submissions, and data validation.
   - Cross-Browser Testing:
   - To verify platform functionality across browsers.
